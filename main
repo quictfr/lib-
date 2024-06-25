@@ -200,7 +200,7 @@ function library:Watermark(text)
         end
     end
 
-    tetx = text or "Nigger"
+    tetx = text or "steroids"
 
     local watermark = Instance.new("ScreenGui")
     local watermarkPadding = Instance.new("UIPadding")
@@ -768,11 +768,11 @@ function library:Introduction()
     hashLogo.Position = UDim2.new(0.5, 0, 0.5, 0)
     hashLogo.Size = UDim2.new(0, 250, 0, 250)
     hashLogo.Visible = true
-    hashLogo.Image = "http://www.roblox.com/asset/?id=17781182156"
+    hashLogo.Image = "https://static.thenounproject.com/png/4431600-200.png"
     hashLogo.ImageColor3 = Color3.fromRGB(159, 115, 255)
     hashLogo.ImageTransparency = 1
     
-    xsx.Name = "Universal"
+    xsx.Name = "private"
     xsx.Parent = background
     xsx.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
     xsx.BackgroundTransparency = 1.000
